@@ -194,3 +194,4 @@ LIMIT 3;
 CREATE INDEX idx_appdate ON Appointment(AppDate);
 CREATE INDEX idx_status ON Appointment(Status);
 CREATE INDEX idx_doc_patient ON Appointment(DoctorID, PatientID);
+-- THIS IS AN SQL FILE. LANGUAGE: SQL
