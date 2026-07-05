@@ -1,3 +1,4 @@
+-- language: sql
 -- Create and use the database 
 CREATE DATABASE SmartHealthcareDB; 
 USE SmartHealthcareDB; 
