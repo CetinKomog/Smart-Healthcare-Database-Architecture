@@ -23,5 +23,6 @@ The database manages relations between Hospitals, Departments, Doctors, Patients
   - Composite indexing utilized to prevent full-table scans during heavy multi-table joins.
 
 ## Repository Structure
-- `24052633-MahmutÇetinKömoğ.sql`: The complete SQL script containing table creation, data insertion, analytical queries, and index definitions.
-- `Smart-Healthcare-Report.pdf`: A 17-page technical document detailing the requirements analysis, entity-relationship mapping, and mathematical proofs for normalization steps.
+## Repository Structure
+* `Smart_Healthcare_Schema.sql`: The complete SQL script containing table creation, data insertion, analytical queries, and index definitions.
+* `docs/Smart-Healthcare-Report.pdf`: A 17-page technical document detailing the requirements analysis, entity-relationship mapping, and mathematical proofs for normalization steps.
