@@ -24,5 +24,5 @@ The database manages relations between Hospitals, Departments, Doctors, Patients
 
 ## Repository Structure
 ## Repository Structure
-* `Smart_Healthcare_Schema.sql`: The complete SQL script containing table creation, data insertion, analytical queries, and index definitions.
+* `Healthcare_Database_Implementation.sql`: The complete SQL script containing table creation, data insertion, analytical queries, and index definitions.
 * `docs/Smart-Healthcare-Report.pdf`: A 17-page technical document detailing the requirements analysis, entity-relationship mapping, and mathematical proofs for normalization steps.
